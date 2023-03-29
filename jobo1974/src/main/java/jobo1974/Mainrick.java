@@ -4,6 +4,7 @@ public class Mainrick {
 
 	public static void main(String[] args) {
 		System.out.println("slengslg");
+		System.out.println("nflk");
 
 	}
 
